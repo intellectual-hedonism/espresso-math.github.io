@@ -1,9 +1,9 @@
-title:            Espresso Math
-tagline:          A Cup of Figures
-description: "Reader, you have been warned! This definitly is not a blog. This is where I keep an extended version of my notes and writing. Do not attempt to find any meaning or purpose in my writing. You will fail miserably."
+title:            Intellectual Hedonism
+tagline:          Consumption for recreation
+description: "Let us celebrate the ever increasing entropy by consuming random information. This blog is a collection of vials of dopamine. This is my cure for boredom. It can be yours too."
 # An awesome quote for your website
-quote:  "Cringe. Now bad poetry."
-canonical: espresso-math.github.io
+quote:  "The only way to get rid of temptation is to yield to it. Resist it, and your soul grows sick with longing for the things it has forbidden to itself."
+canonical: intellectual-hedonism.github.io
 #Comment out the below line when pushing to gh-pages
 #url: http://10.42.0.1/_site 
 #For local development only. Comment it out.
@@ -12,16 +12,16 @@ canonical: espresso-math.github.io
 
 # Owner/author information
 owner:
-  name:           Adrian Glitch
+  name:           Suriyadeepan Ramamoorthy
   avatar:         avatar.jpg
   bio:            
-  email:          adrianglitch.auth@gmail.com
+  email:          suriyadeepan.r@gmail.com
   twitter:        
-  github:         espresso-math
+  github:         intellectual-hedonism
   instagram:      
   dribbble:
-  googleplus:     https://plus.google.com/u/3/105796012708469039091       
-  disqus:         espresso-math
+  googleplus:     
+  disqus:         suriyadeepan
   location:       
   # Plug in your disqus shortname!
 
@@ -40,7 +40,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Kolkata
 future:      true
 highlighter: pygments
 markdown:    kramdown
